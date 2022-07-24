@@ -1,0 +1,40 @@
+.card_title{
+    font-size: 16px;
+}
+.card_desc{
+    font-size: 14px;
+}
+.card-item img{
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+.card-item{
+    margin-right: 24px;
+    margin-bottom: 24px;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-item .link.card-link{
+    text-decoration: none;
+    color: #fff;
+    background-color: #44bd32;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+ transition: 0.2s;
+}
+.card-item .link.card-link:hover{
+    background-color: #219210;
+    color: #fff;
+}
+.card-link svg{
+    font-size: 30px;
+    margin-right: 8px;
+}

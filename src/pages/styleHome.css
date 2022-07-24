@@ -1,0 +1,11 @@
+.container-main{
+    background-color: #BFD7EA;
+    padding: 1rem;
+}
+.container-products{
+    display: flex;
+    flex-wrap: wrap;
+}
+.title-home{
+    margin:0 0 24px;
+}

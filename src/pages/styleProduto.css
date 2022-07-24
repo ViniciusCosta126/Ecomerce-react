@@ -1,0 +1,28 @@
+.container-produto{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-height: 300px;
+    padding: 2rem;
+
+}
+.container-produto .container-img{
+
+    max-width: 20vw;
+}
+.container-produto .container-img img{
+    width: 100%;
+    display: block;
+    
+}
+.container-content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title_products_related{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}

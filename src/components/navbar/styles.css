@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #151E3F;
+    color: #fff;
+}
+.navbar a,.navbar #basic-nav-dropdown{
+    text-decoration: none;
+    color: #fff;
+}
+.navbar .navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.navbar .nav-link{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
